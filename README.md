@@ -79,10 +79,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zisan405&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=9D4EDD&text_color=C9D1D9&rank_icon=github" alt="Zisan's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zisan405&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Top languages"/>
+### 📊 GITHUB ANALYTICS
 
-<img src="https://streak-stats.demolab.com?user=zisan405&hide_border=true&background=0D1117&ring=00F5FF&fire=9D4EDD&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zahidul-islam-zisan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=9D4EDD&text_color=C9D1D9&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidul-islam-zisan&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
+
+<img src="https://streak-stats.demolab.com/?user=zahidul-islam-zisan&hide_border=true&background=0D1117&ring=00F5FF&fire=9D4EDD&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
 
